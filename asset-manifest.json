@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/smart-brain/static/css/main.ca0c674c.chunk.css",
-    "main.js": "/smart-brain/static/js/main.a8ba4318.chunk.js",
-    "main.js.map": "/smart-brain/static/js/main.a8ba4318.chunk.js.map",
+    "main.js": "/smart-brain/static/js/main.298429bf.chunk.js",
+    "main.js.map": "/smart-brain/static/js/main.298429bf.chunk.js.map",
     "runtime-main.js": "/smart-brain/static/js/runtime-main.9472589a.js",
     "runtime-main.js.map": "/smart-brain/static/js/runtime-main.9472589a.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/smart-brain/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.15980fc3.chunk.js": "/smart-brain/static/js/2.15980fc3.chunk.js",
-    "static/js/2.15980fc3.chunk.js.map": "/smart-brain/static/js/2.15980fc3.chunk.js.map",
+    "static/js/2.a0155124.chunk.js": "/smart-brain/static/js/2.a0155124.chunk.js",
+    "static/js/2.a0155124.chunk.js.map": "/smart-brain/static/js/2.a0155124.chunk.js.map",
     "index.html": "/smart-brain/index.html",
-    "precache-manifest.11b013e80c011d910ec544250b4f3370.js": "/smart-brain/precache-manifest.11b013e80c011d910ec544250b4f3370.js",
+    "precache-manifest.d4851cda39fa477170b62743e56bfd77.js": "/smart-brain/precache-manifest.d4851cda39fa477170b62743e56bfd77.js",
     "service-worker.js": "/smart-brain/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/smart-brain/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.ca0c674c.chunk.css.map": "/smart-brain/static/css/main.ca0c674c.chunk.css.map",
-    "static/js/2.15980fc3.chunk.js.LICENSE.txt": "/smart-brain/static/js/2.15980fc3.chunk.js.LICENSE.txt"
+    "static/js/2.a0155124.chunk.js.LICENSE.txt": "/smart-brain/static/js/2.a0155124.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9472589a.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.15980fc3.chunk.js",
+    "static/js/2.a0155124.chunk.js",
     "static/css/main.ca0c674c.chunk.css",
-    "static/js/main.a8ba4318.chunk.js"
+    "static/js/main.298429bf.chunk.js"
   ]
 }
